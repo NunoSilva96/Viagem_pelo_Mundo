@@ -1,0 +1,795 @@
+body{
+background-color:#8F8F8F;
+}
+
+.teste{
+width:75%;
+height:1500px;
+background-image:url('imagens/images.jpg');
+margin-left:160px;
+margin-top:-65px;
+margin-bottom:-20px;
+position:absolute;
+z-index: -100;
+}
+
+
+.titulo{
+font-size:50px;
+position:absolute;
+margin-left:425px;
+margin-top:10px;
+position:absolute;
+color:#009ACD;
+float:center;
+}
+
+.subtitulo{
+font-size:14px;
+position:absolute;
+margin-left:520px;
+margin-top:73px;
+color:black;
+}
+
+.linhaabaixo{
+  border:0;
+  border-top: 5px solid #CDCDCD;
+  margin-top:130;
+  height: 0;
+  background: #CDCDCD;
+  width: 1007px;
+  position:absolute;
+  margin-left:160px;
+}
+
+.menu ul{
+padding: 2px 10px 0px;
+margin-left: 160px;
+margin-top:163px;
+list-style:none;
+position:absolute;
+font-size:30px;
+
+}
+
+.menu ul li{
+display: inline;
+
+}
+
+.menu ul li a{
+padding: 2px 10px;
+display: inline-block;
+
+color:#333;
+text-decoration: none;
+}
+
+.menu ul li a:hover {
+	background-color:#FFFFFF;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
+.menu ul ul{
+	background-color:#FFFFFF;
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}
+
+.linhaabaixo2{
+  border:0;
+  border-top: 5px solid #CDCDCD;
+  margin-top:230px;
+  height: 0;
+  background: #CDCDCD;
+  width: 1007px;
+  position:absolute;
+  margin-left:160px;
+}
+
+.linhaabaixo3{
+  border:0;
+  border-top: 5px solid #CDCDCD;
+  margin-top:530px;
+  height: 0;
+  background: #CDCDCD;
+  width: 1007px;
+  position:absolute;
+  margin-left:160px;
+}
+
+
+.imagem{
+background-image:url('imagens/imagem1.jpg');
+position:absolute;
+width:900px;
+height:250px;
+margin-left:183px;
+margin-top:250px;
+border-style:double;
+}
+
+.sobremim1{
+font-size:30px;
+position:absolute;
+margin-left:550px;
+margin-top:550px;
+position:absolute;
+color:#009ACD;
+}
+
+.companheiras1{
+font-size:30px;
+position:absolute;
+margin-left:450px;
+margin-top:550px;
+position:absolute;
+color:#009ACD;
+}
+
+.creditos1{
+font-size:30px;
+position:absolute;
+margin-left:570px;
+margin-top:550px;
+position:absolute;
+color:#009ACD;
+}
+
+.viagens1{
+font-size:30px;
+position:absolute;
+margin-left:570px;
+margin-top:550px;
+position:absolute;
+color:#009ACD;
+}
+
+p{
+font-family:Comic Sans MS;
+font-size:17px;
+}
+
+.border2{
+width:870px;
+height:600px;
+line-height:3px;
+overflow:auto;
+padding:5px;
+background-color:#EDEDED;
+color:#714D03;
+border:4px double #1E90FF;
+position:absolute;
+margin-top:620px;
+margin-left:190px;
+text-align:left;
+}
+
+.barrainferior{
+width:1007px;
+height:200px;
+position:absolute;
+background-color:#000000;
+margin-left:160px;
+margin-top:1250px;
+}
+
+.h1inf1{
+font-size:20px;
+font-family:Comic Sans MS;
+color:#CDCDCD;
+margin-left:25px;
+margin-top:15px;
+}
+
+.imginf1{
+width:50px;
+height:50px;
+margin-left:50px;
+}
+
+.imginf2{
+width:70px;
+height:70px;
+position:absolute;
+margin-top:60px;
+margin-left:-60px;
+}
+
+.barra{
+width:3px;
+height:175px;
+position:absolute;
+margin-left:65px;
+margin-top:-40;
+}
+
+/*--------------------*/
+
+.h1inf2{
+font-size:20px;
+font-family:Comic Sans MS;
+color:#CDCDCD;
+margin-left:250px;
+margin-top:-92px;
+}
+
+.lastnews{
+width:250px;
+height:100px;
+text-decoration:underline;
+margin-left:180px;
+color:#CDCDCD;
+}
+
+.barra1{
+width:3px;
+height:175px;
+position:absolute;
+margin-left:470px;
+margin-top:-143px;
+}
+
+/*----------------------------------------*/
+
+.contactos{
+font-family:Comic Sans MS;
+font-size:20px;
+margin-left:550px;
+color:#CDCDCD;
+margin-top:-145px;
+}
+
+.textocontacto{
+margin-left:500px;
+color:#CDCDCD;
+
+}
+
+.textocontacto2{
+margin-left:500px;
+color:#CDCDCD;
+margin-top:-10px;
+}
+.textocontacto3{
+margin-left:500px;
+color:#CDCDCD;
+margin-top:-10px;
+}
+.textocontacto4{
+margin-left:500px;
+color:#CDCDCD;
+margin-top:-10px;
+}
+
+.sobremim{
+background-color:#FFFFFF;
+color: #6D6D6D;
+border-bottom:3px solid #EA0000;
+}
+
+.companheiras{
+background-color:#FFFFFF;
+color: #6D6D6D;
+border-bottom:3px solid #EA0000;
+}
+
+.viagens{
+background-color:#FFFFFF;
+color: #6D6D6D;
+border-bottom:3px solid #EA0000;
+}
+
+.creditos{
+background-color:#FFFFFF;
+color: #6D6D6D;
+border-bottom:3px solid #EA0000;
+}
+
+
+.titulocomp1{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:350px;
+}
+
+.hondatransalp{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.titulocomp2{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:70px;
+}
+
+.hondaafricatwin{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.titulocomp3{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:340px;
+margin-top:70px;
+}
+
+.hondavaradero{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.titulocomp4{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:340px;
+margin-top:70px;
+}
+
+.hondapan1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.titulocomp5{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:340px;
+margin-top:70px;
+}
+
+.hondapan2{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.viagem1{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:20px;
+}
+
+.completa1{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.espanha1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.pirineus1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.cascata1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.rio1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.polska1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.viagem2{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:80px;
+}
+
+.completa2{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.cravovia1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.viagem3{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:80px;
+}
+
+.completa3{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.frankreich1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.alemanha1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.munique1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+.separacao{
+margin-top:40px;
+}
+
+/*----------------------------------------*/
+
+.viagem4{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa4{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.marrocos1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.marrocos2{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.marrocos3{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/*-------------------------------*/
+
+.viagem5{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa5{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.marrocos4{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.marrocos5{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.marrocos6{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/*-----------------------------*/
+
+.viagem6{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa6{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.suica1{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica2{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica3{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/*----------------------*/
+
+
+.viagem7{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa7{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.suica4{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica5{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica6{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/*--------------------------------------------*/
+
+
+
+.viagem8{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa8{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.suica7{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica8{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica9{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+/*---------------------------------------*/
+
+.viagem9{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa9{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.suica10{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica11{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica12{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/*--------------------------------*/
+
+
+.viagem10{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:240px;
+margin-top:40px;
+}
+
+.completa10{
+font-size:20px;
+font-family:Comic Sans MS;
+margin-left:330px;
+margin-top:60px;
+text-decoration:none;
+}
+
+.suica13{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica14{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+
+.suica15{
+width:500px;
+height:300px;
+margin-left:170px;
+margin-top:10px;
+border-style:double;
+}
+
+/**********************************************/ 
+
